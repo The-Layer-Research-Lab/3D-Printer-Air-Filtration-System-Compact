@@ -9,3 +9,6 @@ The Air Filtration system can however be mounted and repurpoused to extract sold
 - Featuring HEPA filter and Activated Carbon the filter is able to remove VOC and particular matters(pm 2.5 & pm 10).
 - The filter catridge can easily be taken out and easily be replaced.
 - Because of the small form factor, it can be mounted on a wide range of machines. 
+
+We will be working with resellers to provide build kits. So stay tuned!
+
