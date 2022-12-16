@@ -1,4 +1,4 @@
-# 3D-Printer-Air-Filtration-System
+# Air-Filtration-System-for-3D-Printer-and-soldering
 
 This project is still in progress!
 
