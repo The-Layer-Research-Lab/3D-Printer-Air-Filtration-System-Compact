@@ -12,7 +12,7 @@ The Air Filtration system can however be mounted and repurpoused to extract sold
 - Because of the small form factor, it can be mounted on a wide range of machines. 
 
 
-First version is done and testing will be conducted. 
+V1 Beta is done and testing will be conducted. 
 ![3D_Printer_AFS_2023-Jan-05_09-22-20AM-000_CustomizedView33916895061](https://user-images.githubusercontent.com/120485197/210754546-a73e5cec-fcf7-4ec5-8181-5ce9adc8eee0.png)
 
 It is reccomended to print the parts in ABS, PETG will work but ABS is reccomended for enclosed printer or high heat environment. 
