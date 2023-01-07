@@ -11,7 +11,7 @@ The Air Filtration system can however be mounted and repurpoused to extract sold
 - The filter catridge can easily be taken out and be replaced.
 - Because of the small form factor, it can be mounted on a wide range of machines. 
 
-The original purpouse and main intention of this filter is to filter out harmful particles and compounds during 3D Printing, there have been many investigations showing that. I will link them below if you are interested!
+The original purpouse and main intention of this filter is to filter out harmful particles and compounds during 3D Printing, there have been many investigations showing that. I will link them below if you are interested!<br />
 [3D Printing Research at EPA](https://www.epa.gov/chemical-research/3d-printing-research-epa#:~:text=Studies%20have%20found%20that%20the,to%20human%20health%20when%20inhaled.)<br />
 [Ultrafine particle emissions from desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S1352231013005086)<br />
 [Characterization of volatile organic compound emissions from consumer level material extrusion 3D printers](https://www.sciencedirect.com/science/article/pii/S0360132319304196)
