@@ -1,15 +1,20 @@
 # Air-Filtration-System-for-3D-Printing-and-Soldering
 
-This project is still in progress!
+⚠️This project is still in progress!
 
 The Air Filtration System was originally designed for use in 3D printers.
 It is designed for recirculation filtration either in a printer with built-in enclosure or external enclosure.
-The Air Filtration system can however be mounted and repurpoused to extract solder fumes and remove harmful substances from the surrounding to keep the user safe.
+The Air Filtration system can however be mounted and repurpoused to extract solder fumes and remove harmful substances from the surrounding to keep the user safe. 
 
 - Featuring HEPA filter and Activated Carbon the filter is able to remove VOC and particular matters(pm 2.5 & pm 10).
 - It can be converted to a HEPA only or Activated Carbon only filter for specific use cases.
 - The filter catridge can easily be taken out and be replaced.
 - Because of the small form factor, it can be mounted on a wide range of machines. 
+
+The original purpouse and main intention of this filter is to filter out harmful particles and compounds during 3D Printing, there have been many investigations showing that. I will link them below if you are interested!
+[3D Printing Research at EPA](https://www.epa.gov/chemical-research/3d-printing-research-epa#:~:text=Studies%20have%20found%20that%20the,to%20human%20health%20when%20inhaled.)
+[Ultrafine particle emissions from desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S1352231013005086)
+[Characterization of volatile organic compound emissions from consumer level material extrusion 3D printers](https://www.sciencedirect.com/science/article/pii/S0360132319304196)
 
 
 V1 Beta is done and testing will be conducted. 
