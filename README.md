@@ -23,3 +23,5 @@ V1 Beta is done and testing will be conducted.
 It is reccomended to print the parts in ABS, PETG will work but ABS is reccomended for enclosed printer or high heat environment. 
 
 Join the discord server if you have any questions! [Discord server](https://discord.gg/GWHTsEvbd3)
+
+We will be working with resellers to provide build kits so stay tuned!
