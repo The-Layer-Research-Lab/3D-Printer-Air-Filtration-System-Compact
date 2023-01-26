@@ -1,4 +1,4 @@
-# Air-Filtration-System-for-3D-Printing-and-Soldering
+# 3D Printer Air Filtration System Compact
 
 ⚠️This project is still in progress!
 
