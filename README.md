@@ -1,4 +1,4 @@
-# 3D Printer Air Filtration System Compact
+# 3D Printer Air Filtration System-Compact
 
 ⚠️This project is still in progress!
 
