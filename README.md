@@ -10,6 +10,8 @@ It is designed for recirculation filtration either in a printer with built-in en
 - The filter catridge can easily be taken out and be replaced.
 - Because of the small form factor, it can be mounted on a wide range of machines. 
 
+I've tried to make the form factor of the filter as small and as compact as possible. It can be printed on a printer like a Voron 0 (120x120). 
+
 As mentioned, the main intention of this filter is to filter out harmful particles and compounds during 3D Printing, there have been many investigations showing that. I will link them below if you are interested!<br />
 [3D Printing Research at EPA](https://www.epa.gov/chemical-research/3d-printing-research-epa#:~:text=Studies%20have%20found%20that%20the,to%20human%20health%20when%20inhaled.)<br />
 [Ultrafine particle emissions from desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S1352231013005086)<br />
