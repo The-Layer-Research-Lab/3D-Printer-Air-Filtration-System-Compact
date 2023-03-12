@@ -27,4 +27,4 @@ Scaling the parts up by 1-5% can help to compensate shrinkage when printing with
 
 Join the discord server if you have any questions! [Discord server](https://discord.gg/GWHTsEvbd3)
 
-We will be working with resellers to provide build kits so stay tuned!
+
