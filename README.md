@@ -21,7 +21,7 @@ As mentioned, the main intention of this filter is to filter out harmful particl
 V1 Beta is done and testing will be conducted. 
 ![image](https://user-images.githubusercontent.com/120485197/224540378-1a8faa61-672b-4d6e-b401-d02c43f69cfe.png)
 
-It is reccomended to print the parts in ABS, PETG will work but ABS is reccomended for enclosed printer or high heat environment. <br />
+It is reccomended to print the parts in ABS, PETG (or even PLA) will work but ABS is reccomended for enclosed printer or high heat environment. <br />
 Scaling the parts up by 1-5% can help to compensate shrinkage when printing with ABS. (102% is what I am using) 
 [Except for spacers as their size are already perfect, scaling will only be reuired if it doesn't fit. ]
 
