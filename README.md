@@ -25,6 +25,8 @@ It is reccomended to print the parts in ABS, PETG (or even PLA) will work but AB
 Scaling the parts up by 1-5% can help to compensate shrinkage when printing with ABS. (102% is what I am using) 
 [Except for spacers as their size are already perfect, scaling will only be reuired if it doesn't fit. ]
 
+Build guide coming soon...
+
 Join the discord server if you have any questions! [Discord server](https://discord.gg/GWHTsEvbd3)
 
 
