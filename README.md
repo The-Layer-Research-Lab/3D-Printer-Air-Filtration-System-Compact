@@ -3,11 +3,11 @@
 ⚠️This project is still in progress!
 
 The Air Filtration System was originally designed for use in 3D printers.
-It is designed for recirculation filtration either in a printer with built-in enclosure or external enclosure.
+It is designed for recirculation filtration either in a printer with a built-in enclosure or an external enclosure.
 
-- Featuring HEPA filter and Activated Carbon the filter is able to remove VOC and particular matters(pm 2.5 & pm 10).
-- It can be converted to a HEPA only or Activated Carbon only filter for specific use cases.
-- The filter catridge can easily be taken out and be replaced.
+- Featuring a HEPA filter and Activated Carbon the filter is able to remove VOC and particular matters(pm 2.5 & pm 10).
+- It can be converted to a HEPA-only or Activated Carbon-only filter for specific use cases.
+- The filter cartridge can easily be taken out and replaced.
 - Because of the small form factor, it can be mounted on a wide range of machines. 
 
 I've tried to make the form factor of the filter as small and as compact as possible. It can be printed on small printers like a Voron 0 (120x120). 
@@ -17,16 +17,35 @@ As mentioned, the main intention of this filter is to filter out harmful particl
 [Ultrafine particle emissions from desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S1352231013005086)<br />
 [Characterization of volatile organic compound emissions from consumer level material extrusion 3D printers](https://www.sciencedirect.com/science/article/pii/S0360132319304196)
 
+Recommended Print settings:
+Material: Preferably ABS*, PETG works too
+Infil: 40%
+Extrusion width: 0.4mm
+Wall line count: 4
+Solid top/bottom layer:4/5
+Support: on
+Above are the main things that need to be changed, other settings are dependent on the printer model and personal preferences. 
+
+*It is recommended to print the parts in ABS, PETG (or even PLA) will work but ABS is recommended for enclosed printers or high-heat environments. <br />
+Scaling the parts up by 1-5% can help to compensate for shrinkage when printing with ABS. (102% is what I am using) 
+[Except for spacers as their size are already perfect, scaling will only be required if it doesn't fit. ]
+
+Printed parts
+1x Base mount
+1x Base cover
+1x Filter Mount or Filter Mount Max
+1x Filter Cover or Filter Cover Max
+1x Separator
+4x Spacers
+(Optional) 1x Air Duct
+
 
 V1 Beta is done and testing will be conducted. 
 ![image](https://user-images.githubusercontent.com/120485197/224540378-1a8faa61-672b-4d6e-b401-d02c43f69cfe.png)
 
-It is reccomended to print the parts in ABS, PETG (or even PLA) will work but ABS is reccomended for enclosed printer or high heat environment. <br />
-Scaling the parts up by 1-5% can help to compensate shrinkage when printing with ABS. (102% is what I am using) 
-[Except for spacers as their size are already perfect, scaling will only be reuired if it doesn't fit. ]
+The build guide is now here! [Build guide](https://docs.google.com/document/d/1WegTf6bddh7x7phcnoO4NG55IbVqwgYoXUHPxPr9i4U/edit?usp=sharing)
 
-Build guide coming soon...
+Join the Discord server if you have any questions! [Discord server](https://discord.gg/GWHTsEvbd3)
 
-Join the discord server if you have any questions! [Discord server](https://discord.gg/GWHTsEvbd3)
-
+Designed and documented by: Kian Cheng
 
