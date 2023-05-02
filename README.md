@@ -17,28 +17,29 @@ As mentioned, the main intention of this filter is to filter out harmful particl
 [Ultrafine particle emissions from desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S1352231013005086)<br />
 [Characterization of volatile organic compound emissions from consumer level material extrusion 3D printers](https://www.sciencedirect.com/science/article/pii/S0360132319304196)
 
-Recommended Print settings:
-Material: Preferably ABS*, PETG works too
-Infil: 40%
-Extrusion width: 0.4mm
-Wall line count: 4
-Solid top/bottom layer:4/5
-Support: on
+Recommended Print settings:<br />
+Material: Preferably ABS*, PETG works too<br />
+Infil: 40%<br />
+Extrusion width: 0.4mm<br />
+Wall line count: 4<br />
+Solid top/bottom layer:4/5<br />
+Support: on<br />
 Above are the main things that need to be changed, other settings are dependent on the printer model and personal preferences. 
 
 *It is recommended to print the parts in ABS, PETG (or even PLA) will work but ABS is recommended for enclosed printers or high-heat environments. <br />
 Scaling the parts up by 1-5% can help to compensate for shrinkage when printing with ABS. (102% is what I am using) 
 [Except for spacers as their size are already perfect, scaling will only be required if it doesn't fit. ]
 
-Printed parts
-1x Base mount
-1x Base cover
-1x Filter Mount or Filter Mount Max
-1x Filter Cover or Filter Cover Max
-1x Separator
-4x Spacers
-(Optional) 1x Air Duct
+Printed parts:<br />
+1x Base mount<br />
+1x Base cover<br />
+1x Filter Mount or Filter Mount Max<br />
+1x Filter Cover or Filter Cover Max<br />
+1x Separator<br />
+4x Spacers<br />
+(Optional) 1x Air Duct<br />
 
+Hardware list available in build guide.
 
 V1 Beta is done and testing will be conducted. 
 ![image](https://user-images.githubusercontent.com/120485197/224540378-1a8faa61-672b-4d6e-b401-d02c43f69cfe.png)
