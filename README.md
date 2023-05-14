@@ -1,7 +1,5 @@
 # 3D Printer Air Filtration System-Compact
 
-![The Layer Research Lab](https://github.com/The-Layer-Research-Lab/3D-Printer-Air-Filtration-System-Compact/assets/120485197/ff3f6333-46db-4c95-82ef-36eca7874c0e)
-
 ⚠️This project is still in progress!
 
 The Air Filtration System was originally designed for use in 3D printers.
