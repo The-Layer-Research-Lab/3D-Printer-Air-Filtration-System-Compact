@@ -1,6 +1,6 @@
 Here are the STL files for the Air Filtration System, but please do note that it is currently in BETA as I still have something to verify.
 
-Recommended Print settings:
+Recommended Print settings:<br />
 Material: Preferably ABS*, PETG works too<br />
 Infil: 40%<br />
 Extrusion width: 0.4mm<br />
