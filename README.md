@@ -1,6 +1,6 @@
 # 3D Printer Air Filtration System-Compact
 
-⚠️This project is still in progress!
+⚠️This project is still in progress! Current version: V1 beta r1
 
 The Air Filtration System was originally designed for use in 3D printers.
 It is designed for recirculation filtration either in a printer with a built-in enclosure or an external enclosure.
